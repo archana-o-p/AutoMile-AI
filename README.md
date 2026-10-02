@@ -141,14 +141,6 @@ The application then generates an estimated vehicle mileage.
 * Estimated city and highway mileage indicators
 * Clean responsive dashboard interface
 
-## 📸 Application Preview
-
-*Add your Streamlit application screenshot here.*
-
-```text
-![AutoMile AI Screenshot](screenshots/app.png)
-```
-
 ## 📁 Project Structure
 
 ```text
